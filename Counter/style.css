@@ -31,3 +31,16 @@
   left: 745px;
   top: 80px;
 }
+.decrease:hover{
+  background-color: red;
+  transition-duration: 0.5s;
+}
+.increase:hover{
+  background-color: greenyellow;
+  transition-duration: 0.5s;
+}
+.reset:hover{
+  background-color: blue;
+  transition-duration: 0.5s;
+}
+
